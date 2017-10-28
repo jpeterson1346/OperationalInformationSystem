@@ -27,7 +27,7 @@
                 <input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value=""/>
             </div>
             <CENTER style="table-layout: fixed; border-spacing: inherit">
-                <H2>VATUSA NATIONAL AIRSPACE SYSTEM STATUS</H2>
+                <H2>vATCSCC NATIONAL AIRSPACE SYSTEM STATUS</H2>
                 <FONT face=Arial size=2>
                     (Note: This page will refresh every 5 minutes.&nbsp;Last updated <span id="timeLabel">10/28/2017 15:45:07</span>
                     UTC.)
@@ -284,7 +284,7 @@
                 <div>
                     <table cellspacing="0" rules="all" border="1" id="GridView11" style="width:100%;border-collapse:collapse;">
                         <tr>
-                            <th scope="col" style="border-style:Ridge;">VATUSA Traffic Flow Management System</th>
+                            <th scope="col" style="border-style:Ridge;">vATCSCC Traffic Flow Management System</th>
                         </tr>
                         <tr>
                             <td style="border-style:Ridge;">DISREGARD RESTRICTIONS ON THE 7th</td>
